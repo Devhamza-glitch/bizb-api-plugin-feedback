@@ -1,0 +1,12 @@
+extend type Mutation {
+  sendFeedBackFrom(
+    name: String!
+    phoneNumber: String!
+    feedBack: String
+    experience:Int
+    likeLihood:Int
+    productQuality:Int
+    customerService:Int
+    deliveryTimeSatisfaction:Int
+  ): Boolean!
+}
