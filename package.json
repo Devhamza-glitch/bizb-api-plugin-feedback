@@ -1,7 +1,7 @@
 {
-  "name": "@codistan-isb/api-plugin-feedback",
-  "description": "Boilerplate Email Custom plugin for the Reaction API",
-  "label": "Email Custom",
+  "name": "@codistan-isb/bizb-api-plugin-feedback",
+  "description": "Boilerplate Feedback Custom plugin for the Reaction API",
+  "label": "Feedback Custom",
   "version": "2.0.7-development",
   "main": "index.js",
   "type": "module",
